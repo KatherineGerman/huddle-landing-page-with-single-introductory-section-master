@@ -1,0 +1,108 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+   
+
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+*{
+    margin: 0px;
+    
+    
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+      background-color: hsl(257, 40%, 49%);
+  background-image: url('images/bg-desktop.svg');
+}
+.logo{
+
+    margin-top: 30px;
+    margin-left: 70px;
+    width: 200px; 
+    height: 100px;
+
+}
+.images{
+    width: 200px; 
+    
+    margin-left: 70px;
+    margin-top: 60px;
+  
+}
+
+.texto1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 40px;
+   
+    
+    
+}
+.texto2{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 40px;
+   
+    
+    
+}
+
+.parrafo1{
+
+   text-align: justify;
+   color: white;
+    font-size: 24px;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.text{
+    margin-left: 850px;
+    position: absolute;
+    bottom: 280px;
+    right: 100px;
+    
+}
+.btn-fb{
+    
+    font-size: 1.7em;
+    padding: 10px;
+    margin-left: 80%;
+    
+    color: white;
+}
+.btn-tw{
+    font-size: 1.7em;
+    padding: 10px;
+    margin-left: 30px;
+    color: white;
+}
+.btn-ig{
+    font-size: 1.7em;
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+}
+.socials{
+
+    margin-left: 20%;
+
+}
+.register-btn{
+
+    position: absolute;
+    bottom: -80px;
+    left: 5px;
+    font-size: 20px;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 5px 5px  15px rgb(82, 69, 88);
+    color: rgb(138, 101, 163);
+    background-color:white;
+    width: 200px;
+    height: 50px;
+    
+}
+
+
