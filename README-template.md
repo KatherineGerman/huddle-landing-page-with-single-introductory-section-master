@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![](images/capture.jpg)
+![](./capture.PNG)
 
 
 
