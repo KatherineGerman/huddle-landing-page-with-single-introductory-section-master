@@ -69,8 +69,12 @@ body{
     font-size: 1.7em;
     padding: 10px;
     margin-left: 80%;
-    
     color: white;
+}
+.btn-fb:hover{
+
+    background-color: hsl(300, 69%, 71%);
+    
 }
 .btn-tw{
     font-size: 1.7em;
@@ -78,12 +82,19 @@ body{
     margin-left: 30px;
     color: white;
 }
+.btn-tw:hover{
+    background-color: hsl(300, 69%, 71%);
+}
 .btn-ig{
     font-size: 1.7em;
     padding: 10px;
     margin-left: 20px;
     color: white;
 }
+.btn-ig:hover{
+    background-color: hsl(300, 69%, 71%);
+}
+
 .socials{
 
     margin-left: 20%;
@@ -94,7 +105,7 @@ body{
     position: absolute;
     bottom: -80px;
     left: 5px;
-    font-size: 20px;
+    font-size: 18px;
     border: none;
     border-radius: 30px;
     box-shadow: 5px 5px  15px rgb(82, 69, 88);
@@ -105,4 +116,10 @@ body{
     
 }
 
+.register-btn:hover{
+    padding: 15px;
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+    
+}
 
